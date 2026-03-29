@@ -1,0 +1,13 @@
+# Python 3.11
+
+numpy==2.0.2
+pandas==2.2.2
+scipy==1.16.3
+scikit-learn==1.6.1
+
+catboost==1.2.10
+implicit==0.7.2
+gensim==4.4.0
+
+threadpoolctl==3.6.0
+pyarrow==18.1.0
